@@ -1,0 +1,5 @@
+/vendor
+/tablea-test-front-end/node_modules
+/tablea-test-front-end/package-lock.json
+*.swp
+*.lock
